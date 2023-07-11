@@ -85,6 +85,7 @@ section.header-container {
 .deal-wrap {
   background-color: #fef6f8;
   margin-top: 68px;
+  padding-bottom: 40px;
 }
 .deal-container {
   display: flex;
@@ -96,6 +97,26 @@ section.header-container {
 }
 .text-2 {
   width: 440px;
+}
+.tes-wrap {
+  background-color: #c86c80;
+  color: white;
+  border-radius: 10px;
+}
+.tes-content {
+  padding: 50px 30px;
+  text-align: center;
+}
+.tes-box {
+  margin-top: 40px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.tes-box p {
+  margin-top: 16px;
+  width: 180px;
+  font-size: 14px;
 }
 h2 span {
   color: #e55473;
